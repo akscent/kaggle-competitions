@@ -1,6 +1,6 @@
 # Shift Winter 2023
 
-<img src="https://raw.githubusercontent.com/akscent/kaggle-competitions/main/Shift-2023/img/banner.PNG">
+<img src="https://raw.githubusercontent.com/akscent/kaggle-competitions/main/Shift-2023/img/banner.png">
 
 # Описание задачи
 В соревновании создается классификатор изображений. Цель - находить размытые (blurred) фото.
